@@ -1,4 +1,4 @@
-from api_status import check_status
+from . import check_status
 
 if __name__ == "__main__":
     url = input('Ingrese la URL de la API: ')

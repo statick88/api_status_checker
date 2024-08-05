@@ -1,5 +1,5 @@
 import unittest
-from api_status_ckecker.api_status import check_status
+from api_status_ckecker import check_status
 
 class TestApiStatusChecker(unittest.TestCase):
 
